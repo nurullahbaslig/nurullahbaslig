@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Nurullah Başlığ!
 
-<!--
-**nurullahbaslig/nurullahbaslig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in **Silopi, Şırnak (Türkiye)**, I am a Software Engineer, IT Expert, Entrepreneur, and Writer.
 
-Here are some ideas to get you started:
+### 💻 Software Engineering & Cybersecurity
+Software Engineer and IT Expert skilled in 9+ programming languages and modern tech stacks.
+- **Tech Stack:** Java, JavaScript, C, C++, C#, Python, HTML, CSS, and API Technologies.
+- **Cybersecurity (ToolDEV):** Developing custom cybersecurity tools on Kali Linux and Parrot OS platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎮 Entrepreneurship & Gaming
+Founder and Operator of **APEX ESPORTS & GAMING CENTER**, a next-generation gaming hub pioneering the local esports culture in Silopi, Şırnak.
+
+---
+
+### ✍️ Literary Work
+Poet with 40+ original works published on digital literature platforms (Antoloji.com), exploring themes of mysticism (Sufism), philosophy, and lyrical romance.
+
+---
+
+### 📱 Contact Me
+- **Instagram:** [@nurullah.bslig](https://instagram.com/nurullah.bslig)
