@@ -19,5 +19,12 @@ Poet with 40+ original works published on digital literature platforms (Antoloji
 
 ---
 
+### 🌐 Languages & Communication
+- **Native / Bilingual:** Kurdish & Turkish (C2+)
+- **Professional & Fluent:** English, Azerbaijani, Persian (Farsi)
+- **Global Capability:** Multilingual technical communication and documentation in 5 languages.
+
+---
+
 ### 📱 Contact Me
 - **Instagram:** [@nurullah.bslig](https://instagram.com/nurullah.bslig)
